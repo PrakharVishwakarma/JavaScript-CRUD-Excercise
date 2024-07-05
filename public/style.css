@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* height: 100%;
+    width: 100%; */
+}
+h1{
+    color: darkblue;
+    background-color: rgba(224, 255, 255, 0.837);
+    text-align: center;
+}
+
+.userpost{
+    background-color: rgba(211, 211, 211, 0.974);
+    margin: 20px 0px;
+    padding: 20px 10px;
+    border-radius: 20px;
+}
+
+.username{
+    font-style: italic;
+}
